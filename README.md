@@ -4,9 +4,6 @@
   <a href="https://mengkai666.github.io/">
     <img src="https://img.shields.io/badge/🌐_个人官方主页-mengkai666.github.io-2563eb?style=for-the-badge" alt="孟锴个人主页" />
   </a>
-  <a href="mailto:mengkai3@outlook.com">
-    <img src="https://img.shields.io/badge/📧_Email-mengkai3@outlook.com-blue?style=for-the-badge" alt="Email" />
-  </a>
 </p>
 
 - 🌐 **个人主页 (Official Website)**: [https://mengkai666.github.io/](https://mengkai666.github.io/)
@@ -29,6 +26,6 @@
 
 ### 📬 联系与交流 (Connect with Meng Kai)
 
-- 🌐 **个人网站**: [https://mengkai666.github.io/](https://mengkai666.github.io/)
-- 📝 **知乎主页**: [孟锴的知乎专栏](https://www.zhihu.com/people/yi-dui-ji-mu-zai-kuang-xiang)
-- 📮 **邮箱**: [mengkai3@outlook.com](mailto:mengkai3@outlook.com)
+- 🌐 **个人主页 (Official Website)**: [https://mengkai666.github.io/](https://mengkai666.github.io/)
+- 🐙 **GitHub 主页**: [https://github.com/mengkai666](https://github.com/mengkai666)
+- 🚀 **重点开源仓库**: [ai_quant_trade](https://github.com/charliedream1/ai_quant_trade)
